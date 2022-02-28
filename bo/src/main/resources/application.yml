@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: local
+
+greeting:
+  message: this is main application.yml

@@ -1,0 +1,22 @@
+server:
+  port: 8081
+spring:
+  # Database configuration
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/gis
+    username: postgres
+    password: 12345
+
+  # JPA configuration
+  jpa:
+    # PotGIS configuration
+    database-platform: org.hibernate.spatial.dialect.postgis.PostgisDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+    autoconfigure:
+      exclude[0]: org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+      exclude[1]: org.springframework.boot.actuate.autoconfigure.security.servlet.ManagementWebSecurityAutoConfiguration
+logging:
+  config: classpath:log4j2-spring.xml

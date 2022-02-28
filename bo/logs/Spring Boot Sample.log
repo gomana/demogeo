@@ -1,0 +1,229 @@
+2022/02/28 06:10:53,418 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting BoApplication using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 7360 (C:\Users\backgom\gom\12_sia\project\bo\target\classes started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:10:53,498 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:11:01,089 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-8080"]
+ -2022/02/28 06:11:01,090 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:11:01,091 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:11:01,483 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:11:01,988 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:11:02,148 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:11:02,478 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:11:02,566 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:11:02,854 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:11:05,815 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:11:05,862 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:11:07,661 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:11:10,075 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-8080"]
+ -2022/02/28 06:11:10,102 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:11:10,132 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 06:11:10,189 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Pausing ProtocolHandler ["http-nio-8080"]
+ -2022/02/28 06:11:10,190 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Stopping service [Tomcat]
+ -2022/02/28 06:11:10,206 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Stopping ProtocolHandler ["http-nio-8080"]
+ -2022/02/28 06:11:10,218 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Destroying ProtocolHandler ["http-nio-8080"]
+ -2022/02/28 06:22:42,705 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting BoApplication using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 20972 (C:\Users\backgom\gom\12_sia\project\bo\target\classes started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:22:42,728 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:22:50,087 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-8081"]
+ -2022/02/28 06:22:50,088 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:22:50,088 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:22:50,400 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:22:50,957 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:22:51,097 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:22:51,380 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:22:51,464 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:22:51,723 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:22:54,545 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:22:54,602 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:22:56,411 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:22:58,818 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-8081"]
+ -2022/02/28 06:22:58,890 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started BoApplication in 17.603 seconds (JVM running for 20.065)
+ -2022/02/28 06:23:18,947 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-8081-exec-2]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:45:31,743 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting AoiControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 20104 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:45:31,771 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:45:38,046 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:45:38,047 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:45:38,048 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:45:38,436 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:45:39,244 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:45:39,456 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:45:39,801 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:45:39,885 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:45:40,199 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:45:43,182 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:45:43,248 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:45:45,452 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:45:49,292 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:45:49,369 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started AoiControllerTest in 19.176 seconds (JVM running for 23.699)
+ -2022/02/28 06:45:50,186 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:45:52,964 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:45:52,981 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 06:47:02,695 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting AoiControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 21476 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:47:02,729 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:47:08,980 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:47:08,982 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:47:08,983 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:47:09,384 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:47:10,196 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:47:10,423 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:47:10,990 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:47:11,088 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:47:11,379 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:47:14,472 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:47:14,556 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:47:16,900 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:47:20,772 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:47:20,850 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started AoiControllerTest in 19.839 seconds (JVM running for 23.953)
+ -2022/02/28 06:47:21,520 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:47:24,055 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:47:24,072 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 06:48:24,659 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting AoiControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 20196 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:48:24,688 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:48:31,213 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:48:31,215 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:48:31,216 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:48:31,632 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:48:32,535 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:48:32,697 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:48:33,056 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:48:33,163 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:48:33,475 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:48:36,485 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:48:36,558 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:48:38,971 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:48:42,738 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:48:42,808 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started AoiControllerTest in 19.725 seconds (JVM running for 24.581)
+ -2022/02/28 06:48:43,530 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:48:46,270 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:48:46,292 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 06:50:58,882 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting AoiControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 18808 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:50:58,918 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:51:06,232 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:51:06,233 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:51:06,234 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:51:06,618 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:51:07,427 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:51:07,615 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:51:08,070 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:51:08,183 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:51:08,631 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:51:11,721 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:51:11,812 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:51:13,683 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:51:17,300 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:51:17,362 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started AoiControllerTest in 20.431 seconds (JVM running for 24.984)
+ -2022/02/28 06:51:18,075 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:51:21,999 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:51:22,020 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 06:52:09,424 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting AoiControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 23120 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 06:52:09,448 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 06:52:16,427 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:52:16,429 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 06:52:16,430 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 06:52:16,826 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 06:52:17,604 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 06:52:17,865 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 06:52:18,612 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 06:52:18,723 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 06:52:19,065 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 06:52:22,093 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 06:52:22,169 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 06:52:24,613 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 06:52:28,578 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 06:52:28,653 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started AoiControllerTest in 20.889 seconds (JVM running for 25.236)
+ -2022/02/28 06:52:29,381 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 06:52:33,681 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 06:52:33,697 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 07:15:58,951 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting RegionControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 21296 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 07:15:58,995 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 07:16:05,382 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:16:05,383 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 07:16:05,384 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 07:16:05,803 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 07:16:06,593 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 07:16:06,789 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 07:16:07,307 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 07:16:07,418 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 07:16:07,821 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 07:16:10,831 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 07:16:10,926 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 07:16:13,291 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 07:16:17,000 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:16:17,079 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started RegionControllerTest in 19.87 seconds (JVM running for 23.88)
+ -2022/02/28 07:16:17,772 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 07:16:21,613 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 07:16:21,632 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 07:23:03,552 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting RegionControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 18160 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 07:23:03,580 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 07:23:10,147 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:23:10,149 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 07:23:10,150 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 07:23:10,584 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 07:23:11,428 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 07:23:11,691 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 07:23:12,063 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 07:23:12,152 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 07:23:12,498 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 07:23:15,558 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 07:23:15,650 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 07:23:17,872 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 07:23:21,990 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:23:22,070 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started RegionControllerTest in 20.942 seconds (JVM running for 26.923)
+ -2022/02/28 07:23:22,882 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 07:23:26,715 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 07:23:26,733 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 07:39:17,300 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting RegionControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 21440 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 07:39:17,336 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 07:39:23,960 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:39:23,961 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 07:39:23,962 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 07:39:24,347 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 07:39:25,181 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 07:39:25,362 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 07:39:25,747 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 07:39:25,851 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 07:39:26,236 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 07:39:29,119 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 07:39:29,215 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 07:39:31,249 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 07:39:35,058 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:39:35,136 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started RegionControllerTest in 19.498 seconds (JVM running for 23.679)
+ -2022/02/28 07:39:36,024 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 07:39:40,099 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 07:39:40,119 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 07:39:54,999 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting RegionControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 23380 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 07:39:55,033 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 07:40:01,445 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:40:01,445 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 07:40:01,447 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 07:40:01,838 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 07:40:02,608 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 07:40:02,837 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 07:40:03,333 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 07:40:03,429 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 07:40:03,820 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 07:40:06,895 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 07:40:06,961 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 07:40:09,187 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 07:40:12,991 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:40:13,068 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started RegionControllerTest in 19.781 seconds (JVM running for 24.782)
+ -2022/02/28 07:40:13,739 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 07:40:17,873 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 07:40:17,890 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -2022/02/28 07:41:50,816 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Starting RegionControllerTest using Java 1.8.0_291 on DESKTOP-VOOL4CC with PID 4592 (started by backgom in C:\Users\backgom\gom\12_sia\project\bo)
+ -2022/02/28 07:41:50,850 [INFO ] [org.springframework.boot.SpringApplication] [main]- The following 1 profile is active: "local"
+ -2022/02/28 07:41:58,270 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:41:58,272 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting service [Tomcat]
+ -2022/02/28 07:41:58,274 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting Servlet engine: [Apache Tomcat/9.0.58]
+ -2022/02/28 07:41:58,735 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Initializing Spring embedded WebApplicationContext
+ -2022/02/28 07:41:59,697 [INFO ] [org.hibernate.jpa.internal.util.LogHelper] [main]- HHH000204: Processing PersistenceUnitInfo [name: default]
+ -2022/02/28 07:41:59,893 [INFO ] [org.hibernate.Version] [main]- HHH000412: Hibernate ORM core version 5.6.5.Final
+ -2022/02/28 07:42:00,316 [INFO ] [org.hibernate.spatial.integration.SpatialService] [main]- HHH80000001: hibernate-spatial integration enabled : true
+ -2022/02/28 07:42:00,444 [INFO ] [org.hibernate.annotations.common.reflection.java.JavaReflectionManager] [main]- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+ -2022/02/28 07:42:00,754 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Starting...
+ -2022/02/28 07:42:04,066 [INFO ] [com.zaxxer.hikari.HikariDataSource] [main]- HikariPool-1 - Start completed.
+ -2022/02/28 07:42:04,142 [INFO ] [org.hibernate.dialect.Dialect] [main]- HHH000400: Using dialect: org.hibernate.spatial.dialect.postgis.PostgisDialect
+ -2022/02/28 07:42:06,951 [INFO ] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [main]- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+ -2022/02/28 07:42:12,673 [INFO ] [org.apache.juli.logging.DirectJDKLog] [main]- Starting ProtocolHandler ["http-nio-auto-1"]
+ -2022/02/28 07:42:12,751 [INFO ] [org.springframework.boot.StartupInfoLogger] [main]- Started RegionControllerTest in 23.723 seconds (JVM running for 28.877)
+ -2022/02/28 07:42:14,265 [INFO ] [org.apache.juli.logging.DirectJDKLog] [http-nio-auto-1-exec-1]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+ -2022/02/28 07:42:19,598 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown initiated...
+ -2022/02/28 07:42:19,615 [INFO ] [com.zaxxer.hikari.HikariDataSource] [SpringApplicationShutdownHook]- HikariPool-1 - Shutdown completed.
+ -
